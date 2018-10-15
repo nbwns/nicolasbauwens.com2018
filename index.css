@@ -1,0 +1,15 @@
+body{
+    font-family: 'Encode Sans', sans-serif;
+}
+
+.hero{
+    margin: 10px 0 10px 0;
+}
+
+h1{
+    color: #3bdba3;
+}
+
+h2, h3{
+    color: #2ea57b;
+}
